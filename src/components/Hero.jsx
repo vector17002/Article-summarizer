@@ -15,7 +15,7 @@ const Hero = () => {
         Summarize Articles with <br className='max-md:hidden'/> <span className='orange_gradient'> OpenAI API</span>
       </h1>
     <h2 className='desc'>
-      Simply your readings with the help of <span className='orange_gradient'>Sumz</span> which will give you summary of the content that you were reading. Just copy the link and let this tool summarize it for you.
+      Simplify your readings with the help of <span className='orange_gradient'>Sumz</span> which will give you summary of the content that you were reading. Just copy the link and let this tool summarize it for you.
     </h2>
     </header>
   )
