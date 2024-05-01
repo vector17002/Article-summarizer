@@ -1,9 +1,7 @@
 # Sumz (AI Article Summarizer) 📒
 
 Welcome to Sumz, your ultimate tool for summarizing the articles! 🚀
-<img width="1470" alt="Screenshot 2024-04-13 at 9 00 13 PM" src="https://github.com/vector17002/animbuketsu/assets/104789216/22381273-b096-4a6f-8d5d-16a56189fbdd">
-
-<img width="1470" alt="image" src="https://github.com/vector17002/animbuketsu/assets/104789216/23499ed8-c522-4d64-8e43-8163ed5889b2">
+<img width="1470" alt="Screenshot 2024-04-13 at 9 00 13 PM" src="https://github.com/vector17002/Article-summarizer/assets/104789216/6aa50d47-c1f3-4b9e-b2f1-33bd041aa10b">
 
 
 ## Features
@@ -23,8 +21,8 @@ Welcome to Sumz, your ultimate tool for summarizing the articles! 🚀
 - **Backend:**
   - Open AI API: A RESTful API for summarizing article in 3 Paragraphs.
 
-## Live Demo
-<video src="https://github.com/vector17002/animbuketsu/assets/104789216/fc6f6239-3849-4048-b12f-061191186177"></video>
+
+- ** API STOPPED WORKING**
 
 
 
