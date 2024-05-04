@@ -3,7 +3,6 @@ import { loader , tick ,  linkIcon } from '../assets';
 import axios from 'axios'
 const Article = () => {  
   const [fetching , setFetching] = useState(false);
-  const apiKey = import.meta.env.VITE_APP_RAPID_API_KEY;
  
   const [article , setArticle] = useState({
     url : "",
@@ -14,7 +13,7 @@ const Article = () => {
     url: 'https://article-extractor-and-summarizer.p.rapidapi.com/summarize',
     params: {url: article.url, length: '3'},
     headers: {
-      'X-RapidAPI-Key': apiKey,
+      'X-RapidAPI-Key': 'cafd721bdemshf19b67fc97d0d68p13ff52jsnbd593c764523',
       'X-RapidAPI-Host': 'article-extractor-and-summarizer.p.rapidapi.com'
     }
   };
