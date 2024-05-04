@@ -7,15 +7,13 @@ Welcome to Sumz, your ultimate tool for summarizing the articles! 🚀
 ## Features
 
 - **Simple to use**: Just provide article url.
-- **Next.js Integration**: Built using Next.js for server-side rendering and optimized performance.
 - **Tailwind CSS Styling**: Utilizes Tailwind CSS for beautiful and responsive user interface design.
-- **Open API**: Uses AI api for summarizint article.
+- **Rapid API**: Uses AI api for summarizint article.
 
 ## Technologies Used
 
 - **Frontend:**
   - React: A JavaScript library for building user interfaces.
-  - Next.js: A React framework for server-side rendering and optimized performance.
   - Tailwind CSS: A utility-first CSS framework for styling.
 
 - **Backend:**
