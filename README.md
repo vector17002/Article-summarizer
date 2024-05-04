@@ -19,10 +19,8 @@ Welcome to Sumz, your ultimate tool for summarizing the articles! 🚀
   - Tailwind CSS: A utility-first CSS framework for styling.
 
 - **Backend:**
-  - Open AI API: A RESTful API for summarizing article in 3 Paragraphs.
+  - Rapid API: A RESTful API for summarizing article in 3 Paragraphs.
 
-
-- ** API STOPPED WORKING**
 
 
 
